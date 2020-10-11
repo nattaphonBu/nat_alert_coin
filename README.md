@@ -22,5 +22,5 @@ Ability:
 2.integration notification with email
 3.Can change value of bitcoin to notification. (Add, Remove, Modify) and add edit remove with web
 
-react+ python Resource:
-https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
+react+ python Flask Resource:
+https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
