@@ -19,5 +19,8 @@ https://stackabuse.com/how-to-send-emails-with-gmail-using-python/
 
 Ability:
 1.get value all of bitcoin
-2.integration notification with line(or another)
-3.Can change value of bitcoin to notification. (Add, Remove, Modify)
+2.integration notification with email
+3.Can change value of bitcoin to notification. (Add, Remove, Modify) and add edit remove with web
+
+react+ python Resource:
+https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
