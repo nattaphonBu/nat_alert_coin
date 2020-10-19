@@ -24,3 +24,6 @@ Ability:
 
 react+ python Flask Resource:
 https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
+
+Table theme:
+https://colorlib.com/wp/template/responsive-table-v1/
